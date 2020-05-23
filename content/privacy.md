@@ -2,8 +2,6 @@
 draft: true
 editable: false
 summary: >
-  
-
   Armin Rill Dipl. Des. (FH)
 
   Frankenstrasse 14/1

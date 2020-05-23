@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: "Kolping Schule für Gestaltung "
     url: ""
 superuser: true
 authors:

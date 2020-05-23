@@ -10,9 +10,6 @@ date: "2020-05-15"
 #### Helene Lange Realschule HN
 Redesign und Programmierung der Webseite für die Realschule in Heilbronn. Der Inhalt der Webseite lässt sich leicht mit dem Wordpress CMS-System aktualisieren.
 
-{{< figure src="/images/test-1.gif" class="left" >}}
-{{< clear >}}
-
  <!--more-->
 
 

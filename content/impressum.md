@@ -37,4 +37,4 @@ Die Inhalte auf dieser Website sind nach bestem Wissen und Gewissen zusammengest
 Salvatorische Klausel
 Ist eine der vorstehenden Klauseln/Bestimmungen aufgrund gesetzlicher Bestimmungen, Vorschriften oder Gesetzesänderungen ganz oder teilweise unwirksam, so tritt an Stelle dieser Bestimmung diejenige in Kraft, die der angestrebten Absicht der Klausel/Bestimmung am nächsten kommt. Alle anderen Bestimmungen bleiben hiervon unberührt und gelten weiterhin in vollem Umfang.
 
-Copyright © 2014-2018 Rooftop Design, Armin Rill
+Copyright © 2014-2020 Rooftop Design, Armin Rill

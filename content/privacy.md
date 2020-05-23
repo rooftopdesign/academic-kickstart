@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 editable: false
 summary: >
   Armin Rill Dipl. Des. (FH)
@@ -17,8 +17,6 @@ summary: >
   Weipertstr. 8-10
 
   74076 Heilbronn
-
-
 
 
 

@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 title: Armin Rill
-role: Professor of Artificial Intelligence
+role: Dipl.-Des. (FH)
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

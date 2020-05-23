@@ -74,5 +74,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Das ist das Portfolio

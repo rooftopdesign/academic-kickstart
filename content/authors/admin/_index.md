@@ -1,7 +1,7 @@
 ---
 organizations:
   - name: "Kolping Schule für Gestaltung "
-    url: ""
+    url: "https://sfg.kolping-bildung-hn.de/"
 superuser: true
 authors:
   - admin

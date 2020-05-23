@@ -1,8 +1,5 @@
----
-title: "Projekte"
-date: "2020-05-12"
-
----
+widget = "portfolio"  # Use the Portfolio widget
+headless = true  # This file represents a page section.
 
 #  Willkommen bei Rooftop Design. Das Büro für Kommunikation, Gestaltung + Coding in Heilbronn.
 

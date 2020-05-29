@@ -72,9 +72,9 @@ summary: >
 header:
   caption: ""
   image: ""
-title: Impressum
+title: Datenschutz
 date: 2020-05-23T12:29:11.196Z
-subtitle: "*HIER FINDEN SIE UNS*"
+subtitle: Kontakt
 commentable: false
 share: false
 ---

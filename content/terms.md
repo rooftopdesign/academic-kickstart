@@ -9,19 +9,10 @@ summary: |-
 
   74248 Ellhofen
 
-
-
   Tel. +49 (0)7134-9180405
 
-  Fax: (+49) (0)7132 95 11 6 13
-
-
-
   Steuernummer: 65334/84642
-
   UST-ID-NR.: DE 187839998
-
-
 
   Diese Website wird klimafreundlich bei Strato gehostet.
 ---

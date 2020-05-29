@@ -35,4 +35,4 @@ Ist eine der vorstehenden Klauseln/Bestimmungen aufgrund gesetzlicher Bestimmung
 
 
 
-Copyright © 2014-2018 Rooftop Design, Armin Rill
+Copyright © 2014-2020 Rooftop Design, Armin Rill

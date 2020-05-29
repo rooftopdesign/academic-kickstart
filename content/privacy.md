@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 editable: false
 summary: >
   Armin Rill Dipl. Des. (FH)

@@ -8,8 +8,6 @@ summary: >
 
   74248 Ellhofen
    
-   <!--more-->
-
   Armin Rill Rooftop Design 1.22
 
   c/o WSK GmbH Werbeagentur 

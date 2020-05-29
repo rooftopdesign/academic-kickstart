@@ -15,7 +15,7 @@ summary: |-
   UST-ID-NR.: DE 187839998
 
   Diese Website wird klimafreundlich bei Strato gehostet.
-draft: true
+draft: false
 ---
 **Copyright & Urheberrechte**
 
